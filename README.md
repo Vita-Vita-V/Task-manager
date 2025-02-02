@@ -2,7 +2,7 @@
 projekt pro engeto
 “Správce úkolů”:
 
-TC01: Přidání nového úkolu s platnými údaji
+1. Přidání nového úkolu s platnými údaji
 
 • Popis: Ověření, že uživatel může úspěšně přidat nový úkol s platným názvem a popisem.
 
